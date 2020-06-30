@@ -1,7 +1,7 @@
-Thank ng-m1nt. I fixed bug can't surrender
-My hot fix: Change time surrender 15 -> 10:30s 
-To level up the Battle Pass level, if there is a new event, I'll set it to 15 minutes.
-My hot fix apply for GameResolution: 1280 x 720
+Thank ng-m1nt. I fixed bug can't surrender <br>
+My hot fix: Change time surrender 15 -> 10:30s  <br>
+To level up the Battle Pass level, if there is a new event, I'll set it to 15 minutes. <br>
+My hot fix apply for GameResolution: 1280 x 720 <br> 
 Origin : https://github.com/ng-m1nt/tft-farm-tokens-bot/issues
 
 
