@@ -50,7 +50,7 @@ Func autobot()
 	WEnd
 	Local $timer = TimerInit()
 	sleep(59000)
-	While TimerDiff($timer) <= 620000
+	While TimerDiff($timer) <= 900000
 		For $i = 1 To Random(1, 2, 1)
 			MouseClick("left", ($pxdifference[0] + $gamesz[0] * (0.3 + (0.105 * Random(0, 4, 1)))), Round(($gamesz[1] * 0.92) + $pxdifference[1]), 1, 10)
 			sleep(Round(Random(1,2,0) * 1000))
